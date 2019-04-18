@@ -32,8 +32,8 @@ a tin hat joke.
 I do not know how to fix this world. I know only that the first step is to<br>
 acknowledge the problem. That said, we need a forum for discussion,<br>
 a common store of information and raw data. We are problem solvers,<br>
-after all. Can our 'many eyes' and the 'wisdom of crowds' can solve<br>
-these problems? We shall see.
+after all. Can our 'many eyes' and the 'wisdom of crowds' solve these<br>
+problems? We shall see.
 
 
 And so the Tin Feather. I wear the first in my hat to admit the problem<br>
