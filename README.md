@@ -43,3 +43,5 @@ feather. Now take it up.
 
 
 The tin feather... when a tin hat is too heavy.
+
+![Image of tin_feather](https://tin-feather.github.com/images/tin_feather_on_hat.jpeg)
