@@ -17,7 +17,7 @@ decidedly easier before, but such has fallen to me and I would be<br>
 remiss not to give it voice. So the Zeitgeist speaks.
 
 
-The tin hat is a known symbol in our collective semiology. It captures<br>
+The tin foil hat is a known symbol in our collective semiology. It captures<br>
 the suspicion, mistrust, and paranoia all in technology share regarding<br>
 that with which we forge our living. We know these tools all too well;<br>
 we are their smiths.
