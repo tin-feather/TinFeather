@@ -18,10 +18,10 @@
 * Do you know what you are doing?
 <br>My comfort zone ended so far back that I can not see its remains, but I know:
     * that this path has opened in front of me;
-    * that there are people who know how to do these things that need to be done.
+    * that there are people who know how to do the things that need to be done.
 
 * How can I help?
 <br>Please see the
-[contrib](https://github.com/tin-feather/TheTinFeather/icontrib/CONTRIB.md) page.
+[contrib](https://github.com/tin-feather/TheTinFeather/blob/master/CONTRIB.md) page.
 
 
