@@ -22,6 +22,5 @@
 
 * How can I help?
 <br>Please see the
-[contrib](https://github.com/tin-feather/TheTinFeather/blob/master/CONTRIB.md) page.
-
+[contrib](https://github.com/tin-feather/TheTinFeather/blob/master/Contrib.md) page.
 

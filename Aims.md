@@ -4,7 +4,7 @@ My naïveté embrrases me, but someone has to step forward with a proposition.
 
 
 ## 0. Organization and mobilization
-Please see the [contrib](https://github.com/tin-feather/TheTinFeather/blob/master/CONTRIB.md) page.
+Please see the [contrib](https://github.com/tin-feather/TheTinFeather/blob/master/Contrib.md) page.
 
 ## 1. Education and raising awareness
 
