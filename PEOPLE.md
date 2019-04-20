@@ -39,3 +39,6 @@ Consider it sincere thanks.
 
 * [Edward Snowden](https://www.edwardsnowden.com/)
 
+* [Shoshana Zuboff](https://shoshanazuboff.com/)
+
+
