@@ -97,5 +97,3 @@ only a
 [vulnerability](https://github.com/tin-feather/TheTinFeather/blob/master/Vulnerability.md)
 to be exploited by those that oppose our purpose.
 
-
-The unidifed diversity.
