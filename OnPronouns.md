@@ -3,7 +3,7 @@
 Choice of third person pronouns is an issue in the modern world
 that simply did not exist in my youth. As I have said elsewhere, though,
 that is an issue
-[orthogonal](https://github.com/tin-feather/TheTinFeather/blob/master/TwoPrinciples.md)
+[orthogonal](https://github.com/tin-feather/TheTinFeather/blob/develop/book/TwoPrinciples.md)
 to the aims of Tin Feathers. We are the unified diversity.
 
 I do, however,  feel the need to speak of first person pronouns.

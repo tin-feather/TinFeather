@@ -1,6 +1,9 @@
 # TODO
 
-* create develop branch
+* organization
+    * create develop branch
+    * directories
+    * fix links; stick to develop for now
 
 * This might all work better in a [Tiddlywiki](https://tiddlywiki.com/).
 

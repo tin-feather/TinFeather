@@ -94,6 +94,6 @@ The only difference gender identiy or sexual preference could
 possibly make within Tin Feathers is if you are using it as a means
 to find a date or mate. If so, please, take it outside. Internally it is
 only a
-[vulnerability](https://github.com/tin-feather/TheTinFeather/blob/master/Vulnerability.md)
+[vulnerability](https://github.com/tin-feather/TheTinFeather/blob/develop/book/Vulnerability.md)
 to be exploited by those that oppose our purpose.
 
