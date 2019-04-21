@@ -11,11 +11,11 @@ web, etc etc
 
 
 ## Part I
-background, observation
-World faces many problems. Others have cataloged better.
-Programmers solve problems for a lving.
-(Programmers _cause_ many of the problems, too.)
-Programmers need to step up and help.
+* background, observation
+* World faces many problems. Others have cataloged better.
+* Programmers solve problems for a lving.
+* (Programmers _cause_ many of the problems, too.)
+* Programmers need to step up and help.
 
 
 ## Part II
