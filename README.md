@@ -38,8 +38,8 @@ problems? We shall see.
 
 And so the Tin Feather. I wear the first in my hat to admit the problem<br>
 and to foster conversation. __To protest surveillance capitalism and<br>
-invasive data harvesting.__ I lay before you not a gauntlet, but a mere<br>
-feather. Now take it up.
+invasive data harvesting.__ I lay before you not a gauntlet, but merely<br>
+a feather. Now take it up.
 
 
 The tin feather... when a tin hat is too heavy.
