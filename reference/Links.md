@@ -1,6 +1,10 @@
 # Articles, Links, Stories
 
 ### 2019
+* Facebook’s new chief lawyer helped write the Patriot Act
+[The Verge](https://www.theverge.com/2019/4/22/18511633/facebook-general-counsel-patriot-act-jennifer-newstead)
+<br>Russell Brandom
+
 * We Built an ‘Unbelievable’ (but Legal) Facial Recognition Machine
 [New York Times](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html)
 <br>Sahil Chinoy

@@ -1,5 +1,14 @@
 # Solving Problems
 Is this a book? let's see...
+Narrative non-fiction can be as short as 50-60K words
+
+Dual thread... what is outlined below interspresed with a
+diary of Tin Feather's progress as an exercise. Would this be
+readable?
+
+This does not need to be a publishable book as profit is not
+the motive. It can be self-published, circulated. Consider it
+samizdatlthough this runs the risk of cultural appropriation.
 
 
 ## Introduction
@@ -57,6 +66,9 @@ that can be modified for tackling others.
 * where will it lead - information dystopia
 * Time is ripe; many feel this way - see appendix
 
+* Taxation without Representation(?)
+
+
 
 ## Part II
 assess tools at our disposal
@@ -97,6 +109,7 @@ This section will analyse and apply these to the problem.
 
 ### Modes of Failure
 * disunity
+* single point of failure
 * mitigation of vulnerablities
 
 
