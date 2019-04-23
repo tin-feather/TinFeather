@@ -2,6 +2,27 @@
 
 My naïveté embrrases me, but someone has to step forward with a proposition.
 
+Perhaps the best way forward would be an open letter to the IT community.
+* journalists
+    * the Register
+    * the Verge
+    * the Intercept
+* academics
+    * Zuboff
+    * Cheng
+* technologists
+    * Marlinspike
+    * Schneier
+* organizations
+    * EFF
+
+Do not go wider. This is first an issue that we in IT must resolve before
+stepping up to a wider social responsibility on the world stage.
+
+asking and offering?
+
+
+
 
 ## 0. Organization and mobilization
 Please see the [contrib](https://github.com/tin-feather/TheTinFeather/blob/develop/project/Contrib.md) page.

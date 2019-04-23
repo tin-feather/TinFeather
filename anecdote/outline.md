@@ -1,14 +1,14 @@
-# Solving Problems
-Is this a book? let's see...
-Narrative non-fiction can be as short as 50-60K words
+# Is this a book? let's see...
 
-Dual thread... what is outlined below interspresed with a
-diary of Tin Feather's progress as an exercise. Would this be
-readable?
+It does not need to be a publishable book as profit is not the motive. The
+goal is to circulate the ideas. Consider self-publishing as a blog, web-site,
+tiddly wiki, pdf, etc etc.
 
-This does not need to be a publishable book as profit is not
-the motive. It can be self-published, circulated. Consider it
-samizdatlthough this runs the risk of cultural appropriation.
+Therefore it is not constrained by the publishing industry rules or guidelines.
+That said, non-fiction is around 100K words, narrative non-fiction can be as
+short as 50-60K words. Would this work as latter? Dual thread... what is
+outlined below interspresed with a diary of Tin Feather's progress as an public
+exercise? Would this be readable? hold an audience?
 
 
 ## Introduction
