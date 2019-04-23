@@ -6,3 +6,5 @@ assemble and we must maintian unity of purpose.
 
 To assemble we must agree. To maintain unity we must stay in agreement.
 
+
+magnetism
