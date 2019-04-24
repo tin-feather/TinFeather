@@ -1,6 +1,21 @@
 # Articles, Links, Stories
 
 ### 2019
+
+* My TED talk: how I took on the tech titans in their lair
+[The Guardian](https://www.theguardian.com/uk-news/2019/apr/21/carole-cadwalladr-ted-tech-google-facebook-zuckerberg-silicon-valley?CMP=share_btn_tw)
+<br>Carole Cadwalladr
+
+
+* Facebook's role in Brexit -- and the threat to democracy
+[TED, 2019](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy)
+<br>Carole Cadwalladr
+
+and, to be honest, why some of us are not surprised:
+* We're building a dystopia just to make people click on ads
+[TED, 2017](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
+<br>Zeynep Tufekci
+
 * Facebook’s new chief lawyer helped write the Patriot Act
 [The Verge](https://www.theverge.com/2019/4/22/18511633/facebook-general-counsel-patriot-act-jennifer-newstead)
 <br>Russell Brandom
