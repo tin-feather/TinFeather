@@ -1,6 +1,20 @@
 # Articles, Links, Stories
 
 ### 2019
+* [pipl](https://pipl.com/)
+
+* Rape victims among those to be asked to hand phones to police
+[BBC News](https://www.bbc.co.uk/news/uk-48086244)
+<br>20190429
+
+* An algorithm wipes clean the criminal pasts of thousands
+[BBC News](https://www.bbc.co.uk/news/technology-48072164)
+<br>Dave Lee
+
+* ‘Privacy matters’ in Apple’s latest iPhone ad
+[The Verge](https://www.theverge.com/2019/3/14/18266276/apple-iphone-ad-privacy-facetime-bug)
+<br>Chaim Gartenberg
+
 * We Built an ‘Unbelievable’ (but Legal) Facial Recognition Machine
 [New York Times](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html)
 <br>Sahil Chinoy
