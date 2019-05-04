@@ -1,0 +1,4 @@
+Sitemap: http:///tinfeathers.org/sitemapindex.xml
+
+User-Agent: *
+Host: 
