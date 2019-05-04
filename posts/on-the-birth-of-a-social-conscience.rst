@@ -7,9 +7,9 @@
 .. description: 
 .. type: text
 
-The Nobel laureate Bob Dylan sang it better than I will ever beable to say it.
-    | My name it means nothing.
-    | My age it means less.
+The Nobel laureate Bob Dylan sang it better than I will ever be able to say it.
+    | *My name it means nothing.*
+    | *My age it means less.*
 
 Yet precisely because I am no one I presume to speak to everyone.
 
