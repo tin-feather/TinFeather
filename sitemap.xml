@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http:///tinfeathers.org/</loc>
-  <lastmod>2019-05-04T20:43:00Z</lastmod>
+  <lastmod>2019-05-04T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/2019/</loc>
+  <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>http:///tinfeathers.org/archive.html</loc>
-  <lastmod>2019-05-04T20:50:00Z</lastmod>
+  <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>http:///tinfeathers.org/categories/</loc>
@@ -24,5 +28,9 @@
  <url>
   <loc>http:///tinfeathers.org/listings/</loc>
   <lastmod>2019-05-04T20:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</loc>
+  <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
 </urlset>
