@@ -15,11 +15,15 @@
  </url>
  <url>
   <loc>http:///tinfeathers.org/archive.html</loc>
-  <lastmod>2019-05-04T21:43:00Z</lastmod>
+  <lastmod>2019-05-05T00:54:00Z</lastmod>
  </url>
  <url>
   <loc>http:///tinfeathers.org/categories/</loc>
-  <lastmod>2019-05-04T20:43:00Z</lastmod>
+  <lastmod>2019-05-04T22:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/categories/mathjax/</loc>
+  <lastmod>2019-05-04T22:29:00Z</lastmod>
  </url>
  <url>
   <loc>http:///tinfeathers.org/galleries/</loc>
@@ -30,7 +34,23 @@
   <lastmod>2019-05-04T20:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http:///tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</loc>
+  <lastmod>2019-05-05T00:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/posts/on-finding-a-voice/</loc>
+  <lastmod>2019-05-04T23:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/posts/on-pronouns/</loc>
+  <lastmod>2019-05-04T23:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>http:///tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</loc>
   <lastmod>2019-05-04T21:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http:///tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</loc>
+  <lastmod>2019-05-05T00:27:00Z</lastmod>
  </url>
 </urlset>

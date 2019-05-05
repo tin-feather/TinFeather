@@ -1,5 +1,310 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http:///tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http:///tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:x6495ed@gmail.com"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 04 May 2019 22:10:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On the Birth of a Social Conscience</title><link>http:///tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;dl class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http:///tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http:///tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:x6495ed@gmail.com"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sun, 05 May 2019 01:19:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Clouds and War and Connecting Dots and Silver Linings</title><link>http:///tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am beginning to &lt;em&gt;get&lt;/em&gt; cloud computing. While &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; come from the "dev" side of
+DevOps &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am starting to understand the operational advantages of a cloud
+architecture. After all, it is hard to ignore the deluge of articles and
+evangelism presenting the myriad benefits of cloud. But &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; don't want to speak
+of any of that. Instead &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; want to tell a story about war and technology and
+smart people putting 2 and 2 together.&lt;/p&gt;
+&lt;div class="section" id="connecting-dots"&gt;
+&lt;h2&gt;Connecting Dots...&lt;/h2&gt;
+&lt;p&gt;In the 1990s &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; met and worked with many programmers from the Geographic
+Information Systems (GIS) arena. From them &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; learned the basics of how the
+Global Positioning System (GPS) developed and run by the United States military
+works. This was before the days of &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Global_Positioning_System"&gt;Wikipedia&lt;/a&gt; where you can learn much more
+today, but back then &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; was fascinated by one story in particular.&lt;/p&gt;
+&lt;p&gt;GPS signals have been available for civilian use since the 1980s. The signal is
+purposely degraded by an introduced error to prevent the system being used for
+purposes unapproved by its owners, the United States government. This introduced
+error can be switched on and off, and the entire signal can be denied to civilian
+devices altogther when the error is removed.&lt;/p&gt;
+&lt;p&gt;The man &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; met spoke of a GIS conference that took place when the United States
+was on the verge of military action. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not remeber the particular event he
+was describing, but, as you will shortly see, that is not relevant to this story.
+Contemplated military action is news worthy and there was much in the media.
+Would the US act? Wouldn't it? Should it? Shouldn't it? Then as now, the news
+was full of many views and opinions. The timing of any action, however, was not
+revealed before hand.&lt;/p&gt;
+&lt;p&gt;And so we come to a table of GIS practioners, sharing lunch during a conference,
+many of them with GPS devices. Today such things are common place in our smart
+phones but in those days it was only at such a gathering that many would be
+seen together. During lunch, this man's GPS device suddenly lost signal. So, too,
+did his neighbor's. And across the table. Everyone's device suddenly lost signal.&lt;/p&gt;
+&lt;p&gt;A silence fell, he recalled, as they realized the cause. Civilian GPS access had
+been switched off. Why? They knew if the error was switched off, public access
+would also be stopped. Why would the error be switched off? &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; was still in the
+dark until he explained that at the moment of invasion, the error is removed to
+enable the invading Marines to set up local base stations with full accuracy.
+Within minutes the error can be reintroduced; the invading forces can
+account for it using their accurate local base stations.&lt;/p&gt;
+&lt;p&gt;The civilian signal was only off for the span of a few minutes, but that group
+not only noticed, they knew what it meant. Half way around the planet, they knew
+before any news report confirmed it: the Marines had gone in.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="and-more-dots"&gt;
+&lt;h2&gt;... and More Dots&lt;/h2&gt;
+&lt;p&gt;So what does this have to do with cloud computing architectures?&lt;/p&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am still reading Shoshana Zuboff's excellent and disturbing, &lt;strong&gt;The Age of
+Surveillance Capitalism&lt;/strong&gt;. Within it, she defines and recounts the genesis,
+methodologies, and ongoing aims of this new form capitalism. Through a series of
+innovations and accidents of history, its originators discovered the predictive
+value of what she terms "behavioral surplus." In information technology we know
+this as "metadata."&lt;/p&gt;
+&lt;p&gt;Those GIS professionals were the first civilians in the Western world to know
+the very moment, to the minute, when a military invasion began a half a world
+away. Such is the power of metadata analysis. Eight people, sitting around a
+lunch table... and they knew!&lt;/p&gt;
+&lt;p&gt;Today's surveillance capitalists have created and continue to grow empires from
+the behavioral surplus – the metadata – of our lives. Every search and
+click and "like." Zuboff's anlaysis is thorough and chilling. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am eager to
+see if she tells of what &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; report here. If she does &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; will know that &lt;span class="math"&gt;\(\iota\)&lt;/span&gt;
+understand her; if she doesn't then this may be my first contribution to the
+cause.&lt;/p&gt;
+&lt;p&gt;Consider: We know from her of the rapacious and insatiable appetite of
+surveillance capitalist for ever increasing sources of behavioral surplus. We
+know, too, of the astronomical profits they reap from the predicative and
+frightenlingly manipulative value they derive from their appropriation of such
+metadata.&lt;/p&gt;
+&lt;p&gt;And know they invite us to run all of our software on their hardware, in their
+data centers. Why? Is it simply to ease our operational problems? To make our
+lives easier? It may do that, but there will be two costs we pay. First and
+publically for the service. As each instance spins up and spins down. But we
+will pay again through the metadata they claim as their own.&lt;/p&gt;
+&lt;p&gt;Imagine you are running an application that deals with shares: tracking,
+trading, anything; many shares, across many markets. To load balance you divide
+the work based on ticker symbol. Your cloud instances will spin up and down
+based on load: A-B, C-D, E-F, G-H, and so on. Suddenly your application spins
+up 100 more instances. Maybe this is done by someone at your company, maybe it
+happens automatically because you wrote a smart application that monitors its
+internal latencies and throughputs.&lt;/p&gt;
+&lt;p&gt;Would it be fair to conclude that 100 new instances spinning up imply an
+increased load or the anticipation of such? So, this load... is it for tickers
+that start with A-B or G-H or M-N? What could you conclude from knowing that?
+Could a guess be made as to whose shares are going to see action? The data
+within the application remains private, but the metadata of instances starting
+and stopping yields volumes of information itself.&lt;/p&gt;
+&lt;p&gt;While easy to explain, such a scenario is unlikely to happen to any large
+investment bank. Such canny customers have long known the importance of even
+the smallest scraps of information. Perhaps this explains the "hybrid solutions"
+cloud vendors are starting to offer: their cloud infrastructure, hosted on
+premise in private data centers. Will the investment banks trust them?&lt;/p&gt;
+&lt;p&gt;Block chain technology is often presented as a privacy panacea these days. The
+number of band wagons &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have seen roll by in my career engenders a certain
+scepticiism in me as new ones appear, but block chain may yet have its uses.
+&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not know enough to embrace or dismiss it entirely. Let's put down a
+few dots we all know and see what connections we make.&lt;/p&gt;
+&lt;p&gt;Proof of work in block chain implementations takes a lot of compute power.
+Cloud vendors, eager for this business,  are offering nodes and instances primed
+for such compute intensive jobs. We also read that cloud technology has advanced
+to the point where instances can be migrated between servers on the fly.&lt;/p&gt;
+&lt;p&gt;So imagine a rack of servers in a cloud that suddenly starts running hot. Power
+consumption soars. A smart cloud will move jobs as necessary to even the load.
+In distributing such loads, the cloud vendor will know whose jobs are running
+hottest. They will know who is doing a lot of proof of work. They may not know
+why, but they will know when. When the load grows, when it drops, when it stops.
+Does that sound like something block chain evangelist will approve? Block chains
+may keep their ledgers anonymous and secure, but they leak metadata like
+everything else.&lt;/p&gt;
+&lt;p&gt;Lots of isolated data points, meaningless dots... But what can you conclude
+from connecting those dot to millions of others? Dots from apps that track
+shares, that allocate rides, that order pizza, that control power stations, that
+monitor crops, that sense frosts in orchards...&lt;/p&gt;
+&lt;p&gt;Surveillance capitalist have appropriated behavioral surplus from everything we
+do and use it to infer more about us than we know of ourselves. With their
+cloud architectures they are now aiming to do the very same thing to the
+corporations for which we work, to every application we write, from IoT to
+enterprise to government to public service. Everything that runs "in the cloud,"
+grist to their mills&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="clouds-and-linings"&gt;
+&lt;h2&gt;Clouds and Linings&lt;/h2&gt;
+&lt;p&gt;The saying is that all clouds have a silver lining. Not these new clouds.&lt;/p&gt;
+&lt;p&gt;These are lined with gold.&lt;/p&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; said &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am beginning to get cloud architecture. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; certainly
+understand now why the vendors present it as "the new &lt;em&gt;golden&lt;/em&gt; age of cloud."&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http:///tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</guid><pubDate>Tue, 30 Apr 2019 00:54:05 GMT</pubDate></item><item><title>On Finding a Voice</title><link>http:///tinfeathers.org/posts/on-finding-a-voice/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;The current presentation of this material is still evolving. It is more
+important to capture these ideas as the Muse offers them than it is to polish
+their presentation. A few words of disclaimer and apology are in order.&lt;/p&gt;
+&lt;p&gt;The format of this work is guided by the following considerations:&lt;/p&gt;
+&lt;p&gt;1. Communication occurs between individuals. The primary rule of the speaker,
+"Know your audience," is familiar even to those untrained in the art of rhetoric.&lt;/p&gt;
+&lt;p&gt;2. To maintain any semblance of credibility the orator must speak only from
+personal knowledge.&lt;/p&gt;
+&lt;p&gt;3. Limited time both to read and to write, competing claims on attention, and
+the material's urgency demand brevity.&lt;/p&gt;
+&lt;div class="section" id="on-audience"&gt;
+&lt;h2&gt;On Audience&lt;/h2&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am not a practicing mathematician; while my heart lies in mathematics,
+&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not prove theorems for a living. Furthermore, throughout my career
+&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have seen many programmers more capable than &lt;span class="math"&gt;\(\iota\)&lt;/span&gt;. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do, however,
+understand more mathematics than most programmers &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; meet and find &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am
+more comfortable developing code than most mathematicians &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; run across. Tin
+Feathers, then, is a public experiment in the application of mathematically
+informed software engineering principles to larger problems of social
+engineering.&lt;/p&gt;
+&lt;p&gt;Its earliest audience is the information technology community of which &lt;span class="math"&gt;\(\iota\)&lt;/span&gt;
+am a part. There is a lot to cover and little time. Many ideas from the history
+and practice of computer science will be referenced with a degree of familiarty
+assumed. These will range from the theoretical to the humorous. If you have
+found your way to these words, perhaps directed by a friend from this community,
+please ask them if you do not understand any particular point.&lt;/p&gt;
+&lt;p&gt;The over arching aim of this exercise is to build a united community to address
+the issues of surveillance capitalism and invasive data harvesting. While
+orignating in monolog, dialog will be more important. However, due to my
+personal inexperience of the mechanics of blogging and digital social
+interaction in general this may take some time to get right. Please bear with
+me.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="on-style"&gt;
+&lt;h2&gt;On Style&lt;/h2&gt;
+&lt;p&gt;Brevity is important. So too is a style sufficiently captivating to ensure an
+audience. Style is important to get readers.&lt;/p&gt;
+&lt;p&gt;To me that second sentence is more readable than the third, perhaps explaining
+why &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; also find it more writeable. In the struggle to capture and present
+this material &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; fear the fickle nature of inspiration and know that at any
+moment &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; may lose both the content and the courage to speak these words.
+So what of voice and style?&lt;/p&gt;
+&lt;p&gt;Lacking sufficient training in the literary arts &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; simply give rein to the
+Muse and aim for a voice that lets the dictation proceed at a fluent pace.
+Editting can come later. Polish must wait. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; record the imagined spoken
+word, not as internal dialog, but as if listening to another. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; aim to keep
+my own interest in both style and content.&lt;/p&gt;
+&lt;p&gt;Does it work? If you are reading this, there is hope. Please continue, paying
+more attention to what &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; say than how &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; say it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="on-method"&gt;
+&lt;h2&gt;On Method&lt;/h2&gt;
+&lt;p&gt;Is this material best offered as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;book&lt;/li&gt;
+&lt;li&gt;blog&lt;/li&gt;
+&lt;li&gt;wiki&lt;/li&gt;
+&lt;li&gt;lecture&lt;/li&gt;
+&lt;li&gt;sermon&lt;/li&gt;
+&lt;li&gt;rant&lt;/li&gt;
+&lt;li&gt;chautauqua&lt;/li&gt;
+&lt;li&gt;pamphlet&lt;/li&gt;
+&lt;li&gt;interactive non-fiction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While the possibilities of today's internet have far outstripped what &lt;span class="math"&gt;\(\iota\)&lt;/span&gt;
+imagine were even the wildest dreams of Johannes Gutenberg, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; know not how
+best to proceed. Having avoided all things remotely resembling "social media" up
+to now &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; suddenly find myself with a message to share. You see the dilemma
+that immediatley presents itself. How to reach an audience? How to foster
+dialog? How to come together socially and digitally? For now &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; will trust my
+instincts and reach for a Python-based blogging platform, Nikola. Is that the
+right answer? &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not know.&lt;/p&gt;
+&lt;p&gt;So be it. Capture preceeds all. My hope is that initial, imperfect sharing
+may not only reach someone with the skills necessary to improve presentation but
+also inspire them sufficiently to "join the cause." Let that be the first public
+milestone.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http:///tinfeathers.org/posts/on-finding-a-voice/</guid><pubDate>Sun, 28 Apr 2019 23:46:26 GMT</pubDate></item><item><title>On the Idea of the Tin Feather</title><link>http:///tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Tin Feathers has rapidly evolved through multiple stages in the course of the
+first serious consideration of the idea.&lt;/p&gt;
+&lt;p&gt;It began as a joke. Within the programmer community as elsewhere, there exists
+individuals and organizations whose ideas of reality, both scientific
+and social, are, to put it tactfully a few standard deviations from the norm.
+Consider the Flat Earth Society, an organization whose ideas of planetary
+physics and geography contrast strongly with the more widely accepted model of
+the scientific community. Or consider those who believe the world to be run by
+an alien race of lizard people that live disguised amongst us.&lt;/p&gt;
+&lt;p&gt;It is common within information technology to jokingly describe such people as
+"wearing a tin foil hat." The provenance of this particular label lies in the
+claimed ability of such a fashion accessory to protect the wearer from "space
+rays used to control the mind." While a Faraday cage is known to protect an
+environment from stray elecromagnetic radiation and as such, is an important
+component of certain scientific experiments, the protection afforded by a "tin
+foil hat" is, as you can imagine, a somewhat less established phenomenon.&lt;/p&gt;
+&lt;p&gt;The original joke of the Tin Feather was as a logo for Tin Feather Industries, a
+fictitious company that would sell merchandise to protect buyers from excessive
+surveillance and invasion of privacy. Numerous products were imagined that would
+be marketed to the paranoid end of a tin-foil-hat-wearing customer base.&lt;/p&gt;
+&lt;p&gt;Satire can be a powerful means to make statements and focus people's attention.
+Upon consideration of the unreasonable extent to which our actions in this world
+are tracked and recorded and tallied, both physically and digitally, it was
+quickly realized that such a joke could be used to raise awareness of this
+social problem. It might actually do some good in the world.&lt;/p&gt;
+&lt;p&gt;It should be noted that this took place knowing the neologism "surveillance
+capitalism" but in ignorance of its author or the seriousness of the issues that
+that practice implies. Personal resentment and indignation were enough to
+intitiate action leading me to put words to paper -- more literally, bytes into
+files.&lt;/p&gt;
+&lt;p&gt;A few thousand words later, though, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; realized that a more important "good"
+could be achieved through Tin Feathers than simply a joke with a jag. Raising
+awareness of a problem is important. However, successful wide-spread adoption
+of the Tin Feather as an icon protesting surveillance capitalism and invasive
+data harvesting amongst the programmer community would be more. It would be a
+proof of concept to that same community of a way to come together to effect
+social change. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; write of this elsewhere in more detail; let me simply
+state here that the software industry has a collection of techniques that could
+be valuably applied to the complex problems the world faces today. That same
+community, however, shares certain social traits that have, in my opinion,
+prevented it from making the full contribution it could.&lt;/p&gt;
+&lt;p&gt;But programmers know algorithms; they are our bread and butter. We apply them
+to solve our problems and we adapt them to attack similar ones. If Tin Feathers
+worked as an icon, its greatest benefit might not be raising awarness of one
+particular problem, but in serving as a known solution – a proof of concept
+– demonstraing how to mobilize the programming community, their skills, and
+their talents in tackling the many serious issues the world faces today. This
+convinced me that the Tin Feathers programme was worth pursuing.&lt;/p&gt;
+&lt;p&gt;How then to protest surveillance capitalism and invasive data harvesting?
+Proceed using the knowledge and techniques of mathematically informed software
+engineering. Detailed analysis is reported elsewhere, but note those first
+words: "to protest." Consideration of that alone leads to many points relevant
+to protest movements of any nature and human social interaction in general. One
+idea in particular struck me as both critically important and widely
+unrecognized. A subtle, yet simple mathematical concept which, widely known
+would prevent much of the strife seen in today's world and facilitate the common
+action needed to address social ills. Surprising myself, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; realized that after
+more than half a century on this planet &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; might have something to say to other
+people. With a strange mixture of fear, exhilaration, and dread &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; realized
+that they might actually benefit by listening.&lt;/p&gt;
+&lt;p&gt;This is far, far, &lt;em&gt;far&lt;/em&gt; beyond my comfort zone as is confessed elsewhere, but
+know that it is this that drives me to write and share these words. The
+contribution &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; offer is made in the belief that it is unknown to the wider
+information technology audience &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; address and that, as a member of that
+community &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am in a unique position to deliver it. In doing so &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; draw
+courage and inspiration seeing the greater effort to which Eugenia Cheng goes in
+trying to teach a broader audience more mathematically sophisticated material.
+In &lt;strong&gt;The Art of Logic&lt;/strong&gt; she aims to teach that noble subject to people from all
+walks of life, to teach us "How to make sense in a world that doesn't." If she
+can do this with such style and grace and optimism, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; must at least attempt
+to persuade an already logical audience of computer programmers of the wider
+relevance of one mathematical concept we already use.&lt;/p&gt;
+&lt;p&gt;Continued analysis of the Tin Feather programme requires knowledge of the source
+of the phrase "surveillance capitalism." While &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; had a notion as to its
+meaning, to speak publically with credibility demands knowledge and familiarity
+of its wider use. And so &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am lead to the second work motivating this
+action: Shoshana Zuboff's &lt;strong&gt;The Age of Surveillance Capitalism&lt;/strong&gt;. From the start,
+she uncovers and succinctly elucidates what was to me simply a broad sense of
+disatisfaction, defining and thoroughly analysing surveillance capitalism. She
+raises a call to arms, offering her extensive research to inform us of what we
+face. Be warned; it is a problem more serious than &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; suspected.&lt;/p&gt;
+&lt;p&gt;What excites me the most, however, are the nascent ideas emerging as &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; read
+both these works: vulnerabilities and weak points of surveillance capitalism, as
+well as the logic that will convince my peers to accept the challenge of taking
+up arms. From Zuboff &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am alerted to a chink in the armor, a scale missing
+from the dragon's underbelly, and from Cheng &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; garner the logical precision to
+hit so small a target. Informed and inspired by these two works, the Tin Feather
+evolves: from joke, to icon, and, with help and with hope, onwards to solution.
+Fletched with Tin Feathers our loosed arrows will soon speed towards their
+target.&lt;/p&gt;&lt;/div&gt;</description><guid>http:///tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</guid><pubDate>Sat, 27 Apr 2019 00:27:36 GMT</pubDate></item><item><title>On Pronouns</title><link>http:///tinfeathers.org/posts/on-pronouns/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Choice of third-person pronoun is an issue of the modern world that simply did
+not exist in my youth. Such issues are, however, to the aims of Tin Feathers. I
+do feel the need to speak briefly of first-person pronouns.&lt;/p&gt;
+&lt;p&gt;"I" or "we"? Both are problematic. The first is egotistical and pretentious; the
+second presumptious. Do I have a right to speak for all? Do I have a right to
+speak &lt;em&gt;at all&lt;/em&gt;? The only sensible conclusion is: I have the right to speak. You
+have the right to ignore me.&lt;/p&gt;
+&lt;p&gt;More importantly, an "I" matters not to Tin Feathers. Bob Dylan captures an
+important truth: "My name it means nothing." Ideas are universal; they belong to
+us all. So the Zeitgeist speaks.&lt;/p&gt;
+&lt;p&gt;You may as fruitfully investigate the history and provenance of the air
+molecules passing my vocal chords as consider me. The ideas presented here stand
+in judgment on their own, independent of presentation and presenter. Significant
+advantages will follow from this.&lt;/p&gt;
+&lt;p&gt;So perhaps a new pronoun is useful:&lt;/p&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iota&lt;/em&gt;: the ninth letter of the Greek alphabet. Also an English word which means
+something inconsequential, "an infinitesimal amount" according to Mirriam-Webster.&lt;/p&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; matter not one iota.&lt;/p&gt;&lt;/div&gt;</description><guid>http:///tinfeathers.org/posts/on-pronouns/</guid><pubDate>Sat, 20 Apr 2019 22:14:34 GMT</pubDate></item><item><title>On the Birth of a Social Conscience</title><link>http:///tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;dl class="docutils"&gt;
 &lt;dt&gt;The Nobel laureate Bob Dylan sang it better than I will ever be able to say it.&lt;/dt&gt;
 &lt;dd&gt;&lt;div class="first last line-block"&gt;
 &lt;div class="line"&gt;&lt;em&gt;My name it means nothing.&lt;/em&gt;&lt;/div&gt;
