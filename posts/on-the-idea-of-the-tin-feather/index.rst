@@ -28,7 +28,7 @@ It is common within information technology to jokingly describe such people as
 "wearing a tin foil hat." The provenance of this particular label lies in the
 claimed ability of such a fashion accessory to protect the wearer from "space
 rays used to control the mind." While a Faraday cage is known to protect an
-environment from stray elecromagnetic radiation and as such, is an important
+environment from stray electromagnetic radiation and as such, is an important
 component of certain scientific experiments, the protection afforded by a "tin
 foil hat" is, as you can imagine, a somewhat less established phenomenon.
 
@@ -46,14 +46,14 @@ social problem. It might actually do some good in the world.
 It should be noted that this took place knowing the neologism "surveillance
 capitalism" but in ignorance of its author or the seriousness of the issues that
 that practice implies. Personal resentment and indignation were enough to
-intitiate action leading me to put words to paper -- more literally, bytes into
+initiate action leading me to put words to paper -- more literally, bytes into
 files.
 
 A few thousand words later, though, |I| realized that a more important "good"
 could be achieved through Tin Feathers than simply a joke with a jag. Raising
 awareness of a problem is important. However, successful wide-spread adoption
 of the Tin Feather as an icon protesting surveillance capitalism and invasive
-data harvesting amongst the programmer community would be more. It would be a
+data harvesting among the programmer community would be more. It would be a
 proof of concept to that same community of a way to come together to effect
 social change. |I| write of this elsewhere in more detail; let me simply
 state here that the software industry has a collection of techniques that could
@@ -63,9 +63,9 @@ prevented it from making the full contribution it could.
 
 But programmers know algorithms; they are our bread and butter. We apply them
 to solve our problems and we adapt them to attack similar ones. If Tin Feathers
-worked as an icon, its greatest benefit might not be raising awarness of one
-particular problem, but in serving as a known solution |--| a proof of concept 
-|--| demonstraing how to mobilize the programming community, their skills, and
+worked as an icon, its greatest benefit might not be raising awareness of one
+particular problem, but in serving as a known solution |--| a proof of concept
+|--| demonstrating how to mobilize the programming community, their skills, and
 their talents in tackling the many serious issues the world faces today. This
 convinced me that the Tin Feathers programme was worth pursuing.
 
@@ -97,11 +97,11 @@ relevance of one mathematical concept we already use.
 
 Continued analysis of the Tin Feather programme requires knowledge of the source
 of the phrase "surveillance capitalism." While |I| had a notion as to its
-meaning, to speak publically with credibility demands knowledge and familiarity
+meaning, to speak publicly with credibility demands knowledge and familiarity
 of its wider use. And so |I| am lead to the second work motivating this
 action: Shoshana Zuboff's **The Age of Surveillance Capitalism**. From the start,
 she uncovers and succinctly elucidates what was to me simply a broad sense of
-disatisfaction, defining and thoroughly analysing surveillance capitalism. She
+dissatisfaction, defining and thoroughly analyzing surveillance capitalism. She
 raises a call to arms, offering her extensive research to inform us of what we
 face. Be warned; it is a problem more serious than |I| suspected.
 
@@ -111,7 +111,6 @@ well as the logic that will convince my peers to accept the challenge of taking
 up arms. From Zuboff |I| am alerted to a chink in the armor, a scale missing
 from the dragon's underbelly, and from Cheng |I| garner the logical precision to
 hit so small a target. Informed and inspired by these two works, the Tin Feather
-evolves: from joke, to icon, and, with help and with hope, onwards to solution.
+evolves: from joke, to icon, and, with help and with hope, onward to solution.
 Fletched with Tin Feathers our loosed arrows will soon speed towards their
 target.
-

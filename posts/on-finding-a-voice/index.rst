@@ -42,14 +42,14 @@ engineering.
 
 Its earliest audience is the information technology community of which |I|
 am a part. There is a lot to cover and little time. Many ideas from the history
-and practice of computer science will be referenced with a degree of familiarty
+and practice of computer science will be referenced with a degree of familiarity
 assumed. These will range from the theoretical to the humorous. If you have
 found your way to these words, perhaps directed by a friend from this community,
 please ask them if you do not understand any particular point.
 
 The over arching aim of this exercise is to build a united community to address
 the issues of surveillance capitalism and invasive data harvesting. While
-orignating in monolog, dialog will be more important. However, due to my
+originating in monologue, dialog will be more important. However, due to my
 personal inexperience of the mechanics of blogging and digital social
 interaction in general this may take some time to get right. Please bear with
 me.
@@ -62,14 +62,14 @@ Brevity is important. So too is a style sufficiently captivating to ensure an
 audience. Style is important to get readers.
 
 To me that second sentence is more readable than the third, perhaps explaining
-why |I| also find it more writeable. In the struggle to capture and present
+why |I| also find it more writable. In the struggle to capture and present
 this material |I| fear the fickle nature of inspiration and know that at any
 moment |I| may lose both the content and the courage to speak these words.
 So what of voice and style?
 
 Lacking sufficient training in the literary arts |I| simply give rein to the
 Muse and aim for a voice that lets the dictation proceed at a fluent pace.
-Editting can come later. Polish must wait. |I| record the imagined spoken
+Editing can come later. Polish must wait. |I| record the imagined spoken
 word, not as internal dialog, but as if listening to another. |I| aim to keep
 my own interest in both style and content.
 
@@ -96,13 +96,12 @@ While the possibilities of today's internet have far outstripped what |I|
 imagine were even the wildest dreams of Johannes Gutenberg, |I| know not how
 best to proceed. Having avoided all things remotely resembling "social media" up
 to now |I| suddenly find myself with a message to share. You see the dilemma
-that immediatley presents itself. How to reach an audience? How to foster
+that immediately presents itself. How to reach an audience? How to foster
 dialog? How to come together socially and digitally? For now |I| will trust my
 instincts and reach for a Python-based blogging platform, Nikola. Is that the
 right answer? |I| do not know.
 
-So be it. Capture preceeds all. My hope is that initial, imperfect sharing
+So be it. Capture precedes all. My hope is that initial, imperfect sharing
 may not only reach someone with the skills necessary to improve presentation but
 also inspire them sufficiently to "join the cause." Let that be the first public
 milestone.
-
