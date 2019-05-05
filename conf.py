@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Feather Tin"  # (translatable)
 BLOG_TITLE = "The Tin Feather"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http:/tinfeathers.org/"
+SITE_URL = "https://tinfeathers.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http:/tinfeathers.org/"
+# BASE_URL = "https://tinfeathers.org/"
 BLOG_EMAIL = "x6495ed@gmail.com"
 BLOG_DESCRIPTION = "To protest surveillance capitalism and invasive data harvesting."  # (translatable)
 
@@ -138,6 +138,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/", "Home"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
@@ -882,7 +883,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -967,7 +968,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "the-tin-feather.disqus.com"
+COMMENT_SYSTEM_ID = "the-tin-feather"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
