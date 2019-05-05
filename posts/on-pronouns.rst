@@ -18,7 +18,7 @@ Feathers. I do feel the need to speak briefly of first-person pronouns.
 .. TEASER_END
 
 "I" or "we"? Both are problematic. The first is egotistical and pretentious; the
-second presumptious. Do I have a right to speak for all? Do I have a right to
+second presumptuous. Do I have a right to speak for all? Do I have a right to
 speak *at all*? The only sensible conclusion is: I have the right to speak. You
 have the right to ignore me.
 

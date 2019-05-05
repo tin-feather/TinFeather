@@ -34,17 +34,17 @@ GPS signals have been available for civilian use since the 1980s. The signal is
 purposely degraded by an introduced error to prevent the system being used for
 purposes unapproved by its owners, the United States government. This introduced
 error can be switched on and off, and the entire signal can be denied to civilian
-devices altogther when the error is removed.
+devices altogether when the error is removed.
 
 The man |I| met spoke of a GIS conference that took place when the United States
-was on the verge of military action. |I| do not remeber the particular event he
-was describing, but, as you will shortly see, that is not relevant to this story.
-Contemplated military action is news worthy and there was much in the media.
-Would the US act? Wouldn't it? Should it? Shouldn't it? Then as now, the news
-was full of many views and opinions. The timing of any action, however, was not
-revealed before hand.
+was on the verge of military action. |I| do not remember the particular event
+he was describing, but, as you will shortly see, that is not relevant to this
+story.  Contemplated military action is news worthy and there was much in the
+media.  Would the US act? Wouldn't it? Should it? Shouldn't it? Then as now, the
+news was full of many views and opinions. The timing of any action, however, was
+not revealed before hand.
 
-And so we come to a table of GIS practioners, sharing lunch during a conference,
+And so we come to a table of GIS practitioners, sharing lunch during a conference,
 many of them with GPS devices. Today such things are common place in our smart
 phones but in those days it was only at such a gathering that many would be
 seen together. During lunch, this man's GPS device suddenly lost signal. So, too,
@@ -82,7 +82,7 @@ lunch table... and they knew!
 
 Today's surveillance capitalists have created and continue to grow empires from
 the behavioral surplus |--| the metadata |--| of our lives. Every search and
-click and "like." Zuboff's anlaysis is thorough and chilling. |I| am eager to
+click and "like." Zuboff's analysis is thorough and chilling. |I| am eager to
 see if she tells of what |I| report here. If she does |I| will know that |I|
 understand her; if she doesn't then this may be my first contribution to the
 cause.
@@ -90,13 +90,13 @@ cause.
 Consider: We know from her of the rapacious and insatiable appetite of
 surveillance capitalist for ever increasing sources of behavioral surplus. We
 know, too, of the astronomical profits they reap from the predicative and
-frightenlingly manipulative value they derive from their appropriation of such
+frighteningly manipulative value they derive from their appropriation of such
 metadata.
 
 And know they invite us to run all of our software on their hardware, in their
 data centers. Why? Is it simply to ease our operational problems? To make our
 lives easier? It may do that, but there will be two costs we pay. First and
-publically for the service. As each instance spins up and spins down. But we
+publicly for the service. As each instance spins up and spins down. But we
 will pay again through the metadata they claim as their own.
 
 Imagine you are running an application that deals with shares: tracking,
@@ -122,7 +122,7 @@ premise in private data centers. Will the investment banks trust them?
 
 Block chain technology is often presented as a privacy panacea these days. The
 number of band wagons |I| have seen roll by in my career engenders a certain
-scepticiism in me as new ones appear, but block chain may yet have its uses.
+scepticism in me as new ones appear, but block chain may yet have its uses.
 |I| do not know enough to embrace or dismiss it entirely. Let's put down a
 few dots we all know and see what connections we make.
 
@@ -160,5 +160,3 @@ These are lined with gold.
 
 |I| said |I| am beginning to get cloud architecture. |I| certainly
 understand now why the vendors present it as "the new *golden* age of cloud."
-
-
