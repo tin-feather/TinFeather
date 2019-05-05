@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http:///tinfeathers.org/galleries/rss.xml</loc>
-  <lastmod>2019-05-05T09:10:00Z</lastmod>
+  <loc>https://tinfeathers.org/galleries/rss.xml</loc>
+  <lastmod>2019-05-05T13:08:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http:///tinfeathers.org/rss.xml</loc>
-  <lastmod>2019-05-05T01:19:00Z</lastmod>
+  <loc>https://tinfeathers.org/rss.xml</loc>
+  <lastmod>2019-05-05T13:08:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http:///tinfeathers.org/sitemap.xml</loc>
-  <lastmod>2019-05-05T09:10:00Z</lastmod>
+  <loc>https://tinfeathers.org/sitemap.xml</loc>
+  <lastmod>2019-05-05T13:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>

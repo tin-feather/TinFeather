@@ -15,6 +15,8 @@ The current presentation of this material is still evolving. It is more
 important to capture these ideas as the Muse offers them than it is to polish
 their presentation. A few words of disclaimer and apology are in order.
 
+.. TEASER_END
+
 The format of this work is guided by the following considerations:
 
 1. Communication occurs between individuals. The primary rule of the speaker,

@@ -18,6 +18,7 @@ evangelism presenting the myriad benefits of cloud. But |I| don't want to speak
 of any of that. Instead |I| want to tell a story about war and technology and
 smart people putting 2 and 2 together.
 
+.. TEASER_END
 
 Connecting Dots...
 --------------------------------------------------------------------------------

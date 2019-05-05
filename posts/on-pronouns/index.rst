@@ -12,8 +12,10 @@
 
 
 Choice of third-person pronoun is an issue of the modern world that simply did
-not exist in my youth. Such issues are, however, to the aims of Tin Feathers. I
-do feel the need to speak briefly of first-person pronouns.
+not exist in my youth. Such issues are, however, orthogonal to the aims of Tin
+Feathers. I do feel the need to speak briefly of first-person pronouns.
+
+.. TEASER_END
 
 "I" or "we"? Both are problematic. The first is egotistical and pretentious; the
 second presumptious. Do I have a right to speak for all? Do I have a right to

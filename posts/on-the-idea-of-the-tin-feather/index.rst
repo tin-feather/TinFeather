@@ -12,15 +12,17 @@
 
 
 Tin Feathers has rapidly evolved through multiple stages in the course of the
-first serious consideration of the idea.
+first serious consideration of the idea, far from the joke with which it began.
 
-It began as a joke. Within the programmer community as elsewhere, there exists
-individuals and organizations whose ideas of reality, both scientific
-and social, are, to put it tactfully a few standard deviations from the norm.
-Consider the Flat Earth Society, an organization whose ideas of planetary
-physics and geography contrast strongly with the more widely accepted model of
-the scientific community. Or consider those who believe the world to be run by
-an alien race of lizard people that live disguised amongst us.
+.. TEASER_END
+
+Within the programmer community as elsewhere, there exists individuals and
+organizations whose ideas of reality, both scientific and social, are, to put it
+tactfully a few standard deviations from the norm. Consider the Flat Earth
+Society, an organization whose ideas of planetary physics and geography contrast
+strongly with the more widely accepted model of the scientific community. Or
+consider those who believe the world to be run by an alien race of lizard people
+that live disguised amongst us.
 
 It is common within information technology to jokingly describe such people as
 "wearing a tin foil hat." The provenance of this particular label lies in the

@@ -6,47 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http:///tinfeathers.org/</loc>
+  <loc>https://tinfeathers.org/</loc>
   <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/2019/</loc>
+  <loc>https://tinfeathers.org/2019/</loc>
   <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/archive.html</loc>
-  <lastmod>2019-05-05T09:10:00Z</lastmod>
+  <loc>https://tinfeathers.org/archive.html</loc>
+  <lastmod>2019-05-05T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/categories/</loc>
+  <loc>https://tinfeathers.org/categories/</loc>
   <lastmod>2019-05-05T01:20:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/galleries/</loc>
+  <loc>https://tinfeathers.org/galleries/</loc>
   <lastmod>2019-05-04T20:43:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/listings/</loc>
+  <loc>https://tinfeathers.org/listings/</loc>
   <lastmod>2019-05-04T20:43:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</loc>
+  <loc>https://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</loc>
   <lastmod>2019-05-05T00:54:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/posts/on-finding-a-voice/</loc>
+  <loc>https://tinfeathers.org/posts/on-finding-a-voice/</loc>
   <lastmod>2019-05-04T23:46:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/posts/on-pronouns/</loc>
-  <lastmod>2019-05-04T23:24:00Z</lastmod>
+  <loc>https://tinfeathers.org/posts/on-pronouns/</loc>
+  <lastmod>2019-05-05T13:07:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</loc>
+  <loc>https://tinfeathers.org/posts/on-the-birth-of-a-social-conscience/</loc>
   <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
-  <loc>http:///tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</loc>
+  <loc>https://tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</loc>
   <lastmod>2019-05-05T00:27:00Z</lastmod>
  </url>
 </urlset>
