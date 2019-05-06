@@ -2,7 +2,7 @@
 .. slug: on-the-birth-of-a-social-conscience
 .. date: 2019-04-18 21:42:34 UTC
 .. tags: 
-.. category: 
+.. category: introduction
 .. link: 
 .. description: 
 .. type: text
@@ -39,7 +39,7 @@ foster conversation. **To protest surveillance capitalism and invasive data
 harvesting.** I lay before you not a gauntlet, but merely a feather. Now take it
 up.
 
-The tin feather... when a tin hat is too heavy.
+The tin feather… when a tin hat is too heavy.
 
 .. figure:: https://raw.githubusercontent.com/tin-feather/TinFeather/master/images/tin_feather_on_hat.jpeg
    :target: https://raw.githubusercontent.com/tin-feather/TinFeather/master/images/tin_feather_on_hat.jpeg

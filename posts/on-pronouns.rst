@@ -2,7 +2,7 @@
 .. slug: on-pronouns
 .. date: 2019-04-20 22:14:34 UTC
 .. tags: 
-.. category: 
+.. category: introduction
 .. link: 
 .. description: 
 .. type: text

@@ -2,7 +2,7 @@
 .. slug: on-the-shoulders-of-giants
 .. date: 2019-05-05 19:47:34 UTC
 .. tags: 
-.. category: 
+.. category: introduction
 .. link: 
 .. description: 
 .. type: text

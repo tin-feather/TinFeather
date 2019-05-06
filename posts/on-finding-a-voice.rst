@@ -2,7 +2,7 @@
 .. slug: on-finding-a-voice
 .. date: 2019-04-28 23:46:26 UTC
 .. tags: 
-.. category: 
+.. category: introduction
 .. link: 
 .. description: 
 .. type: text
@@ -29,8 +29,7 @@ personal knowledge.
 the material's urgency demand brevity.
 
 On Audience
---------------------------------------------------------------------------------
-
+===========
 |I| am not a practicing mathematician; while my heart lies in mathematics,
 |I| do not prove theorems for a living. Furthermore, throughout my career
 |I| have seen many programmers more capable than |I|. |I| do, however,
@@ -55,9 +54,7 @@ interaction in general this may take some time to get right. Please bear with
 me.
 
 On Style
---------------------------------------------------------------------------------
-
-
+========
 Brevity is important. So too is a style sufficiently captivating to ensure an
 audience. Style is important to get readers.
 
@@ -77,9 +74,7 @@ Does it work? If you are reading this, there is hope. Please continue, paying
 more attention to what |I| say than how |I| say it.
 
 On Method
---------------------------------------------------------------------------------
-
-
+=========
 Is this material best offered as:
 
 * book
