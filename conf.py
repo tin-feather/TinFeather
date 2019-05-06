@@ -24,7 +24,7 @@ SITE_URL = "http://tinfeathers.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://tinfeathers.org/"
-BLOG_EMAIL = "x6495ed@gmail.com"
+BLOG_EMAIL = "info@tinfeathers.org"
 BLOG_DESCRIPTION = "To protest surveillance capitalism and invasive data harvesting."  # (translatable)
 
 # Nikola is multilingual!
