@@ -1,6 +1,6 @@
-.. title: On Scope
+.. title: On the Task at Hand
 .. slug: on-the-task-at-hand
-.. date: 2019-05-05 23:07:12 UTC
+.. date: 2019-05-06 19:55:21 UTC
 .. tags: 
 .. category: analysis
 .. link: 
