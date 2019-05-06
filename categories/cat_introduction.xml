@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>https://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="https://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:x6495ed@gmail.com"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 May 2019 19:40:53 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Scope</title><link>https://tinfeathers.org/posts/on-the-task-at-hand/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Done with introductions, we come now to the task at hand:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;To protest surveillance capitalism and invasive data harvesting&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;A cause both noble and just… perhaps sufficiently quixotic to warrant your
-attention? To save you the effort, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; offer this cost-benefit analysis:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Your cost:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;the time it takes to read these words.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Your benefit:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;worst case – a curmudgeon's smirk at my futile histrionics;&lt;/li&gt;
-&lt;li&gt;best case – new insights into our industry, our community, and their
-context in the world.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;The risk:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://tinfeathers.org/posts/on-the-task-at-hand/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://tinfeathers.org/posts/on-the-task-at-hand/</guid><pubDate>Sun, 05 May 2019 23:07:12 GMT</pubDate></item><item><title>On the Shoulders of Giants</title><link>https://tinfeathers.org/posts/on-the-shoulders-of-giants/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;div class="line-block"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather (Posts about introduction)</title><link>https://tinfeathers.org/</link><description></description><atom:link href="https://tinfeathers.org/categories/cat_introduction.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:x6495ed@gmail.com"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 May 2019 13:51:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On the Shoulders of Giants</title><link>https://tinfeathers.org/posts/on-the-shoulders-of-giants/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;blockquote&gt;
@@ -49,13 +24,7 @@ approval.&lt;/p&gt;
 &lt;p&gt;"&lt;strong&gt;I am Jack's betrayed sense of privacy.&lt;/strong&gt;"&lt;/p&gt;
 &lt;p class="attribution"&gt;—after the Narrator, &lt;strong&gt;Fight Club&lt;/strong&gt;,
 Chuck Palahnuik&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid>https://tinfeathers.org/posts/on-the-shoulders-of-giants/</guid><pubDate>Sun, 05 May 2019 19:47:34 GMT</pubDate></item><item><title>On Clouds and War and Connecting Dots and Silver Linings</title><link>https://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am beginning to &lt;em&gt;get&lt;/em&gt; cloud computing. While &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; come from the "dev" side of
-DevOps &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am starting to understand the operational advantages of a cloud
-architecture. After all, it is hard to ignore the deluge of articles and
-evangelism presenting the myriad benefits of cloud. But &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; don't want to speak
-of any of that. Instead &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; want to tell a story about war and technology and
-smart people putting 2 and 2 together.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/"&gt;Read more…&lt;/a&gt; (6 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</guid><pubDate>Tue, 30 Apr 2019 00:54:05 GMT</pubDate></item><item><title>On Finding a Voice</title><link>https://tinfeathers.org/posts/on-finding-a-voice/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;The current presentation of this material is still evolving. It is more
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid>https://tinfeathers.org/posts/on-the-shoulders-of-giants/</guid><pubDate>Sun, 05 May 2019 19:47:34 GMT</pubDate></item><item><title>On Finding a Voice</title><link>https://tinfeathers.org/posts/on-finding-a-voice/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;The current presentation of this material is still evolving. It is more
 important to capture these ideas as the Muse offers them than it is to polish
 their presentation. A few words of disclaimer and apology are in order.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://tinfeathers.org/posts/on-finding-a-voice/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://tinfeathers.org/posts/on-finding-a-voice/</guid><pubDate>Sun, 28 Apr 2019 23:46:26 GMT</pubDate></item><item><title>On the Idea of the Tin Feather</title><link>https://tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Tin Feathers has rapidly evolved through multiple stages in the course of the

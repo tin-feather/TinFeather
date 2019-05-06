@@ -6,15 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://tinfeathers.org/categories/analysis.xml</loc>
+  <lastmod>2019-05-06T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinfeathers.org/categories/cat_analysis.xml</loc>
+  <lastmod>2019-05-06T11:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinfeathers.org/categories/cat_introduction.xml</loc>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://tinfeathers.org/categories/introduction.xml</loc>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://tinfeathers.org/galleries/rss.xml</loc>
   <lastmod>2019-05-05T13:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tinfeathers.org/rss.xml</loc>
-  <lastmod>2019-05-05T19:54:00Z</lastmod>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tinfeathers.org/sitemap.xml</loc>
-  <lastmod>2019-05-05T19:54:00Z</lastmod>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>

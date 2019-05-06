@@ -15,11 +15,27 @@
  </url>
  <url>
   <loc>https://tinfeathers.org/archive.html</loc>
-  <lastmod>2019-05-05T19:54:00Z</lastmod>
+  <lastmod>2019-05-05T23:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://tinfeathers.org/categories/</loc>
-  <lastmod>2019-05-05T01:20:00Z</lastmod>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/categories/analysis/</loc>
+  <lastmod>2019-05-06T09:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/categories/cat_analysis/</loc>
+  <lastmod>2019-05-06T11:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/categories/cat_introduction/</loc>
+  <lastmod>2019-05-06T11:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/categories/introduction/</loc>
+  <lastmod>2019-05-06T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://tinfeathers.org/galleries/</loc>
@@ -32,6 +48,10 @@
  <url>
   <loc>https://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</loc>
   <lastmod>2019-05-05T00:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/posts/on-debugging/</loc>
+  <lastmod>2019-05-05T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://tinfeathers.org/posts/on-finding-a-voice/</loc>
@@ -52,5 +72,9 @@
  <url>
   <loc>https://tinfeathers.org/posts/on-the-shoulders-of-giants/</loc>
   <lastmod>2019-05-05T19:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tinfeathers.org/posts/on-the-task-at-hand/</loc>
+  <lastmod>2019-05-05T23:07:00Z</lastmod>
  </url>
 </urlset>

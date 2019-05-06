@@ -2,7 +2,7 @@
 .. slug: on-the-idea-of-the-tin-feather
 .. date: 2019-04-27 00:27:36 UTC
 .. tags: 
-.. category: 
+.. category: introduction
 .. link: 
 .. description: 
 .. type: text

@@ -20,8 +20,8 @@ smart people putting 2 and 2 together.
 
 .. TEASER_END
 
-Connecting Dots...
---------------------------------------------------------------------------------
+Connecting Dots…
+================
 In the 1990s |I| met and worked with many programmers from the Geographic
 Information Systems (GIS) arena. From them |I| learned the basics of how the
 Global Positioning System (GPS) developed and run by the United States military
@@ -63,9 +63,8 @@ not only noticed, they knew what it meant. Half way around the planet, they knew
 before any news report confirmed it: the Marines had gone in.
 
 
-... and More Dots
---------------------------------------------------------------------------------
-
+… and More Dots
+===============
 So what does this have to do with cloud computing architectures?
 
 |I| am still reading Shoshana Zuboff's excellent and disturbing, **The Age of
@@ -78,7 +77,7 @@ this as "metadata."
 Those GIS professionals were the first civilians in the Western world to know
 the very moment, to the minute, when a military invasion began a half a world
 away. Such is the power of metadata analysis. Eight people, sitting around a
-lunch table... and they knew!
+lunch table… and they knew!
 
 Today's surveillance capitalists have created and continue to grow empires from
 the behavioral surplus |--| the metadata |--| of our lives. Every search and
@@ -108,7 +107,7 @@ happens automatically because you wrote a smart application that monitors its
 internal latencies and throughputs.
 
 Would it be fair to conclude that 100 new instances spinning up imply an
-increased load or the anticipation of such? So, this load... is it for tickers
+increased load or the anticipation of such? So, this load… is it for tickers
 that start with A-B or G-H or M-N? What could you conclude from knowing that?
 Could a guess be made as to whose shares are going to see action? The data
 within the application remains private, but the metadata of instances starting
@@ -140,10 +139,10 @@ Does that sound like something block chain evangelist will approve? Block chains
 may keep their ledgers anonymous and secure, but they leak metadata like
 everything else.
 
-Lots of isolated data points, meaningless dots... But what can you conclude
+Lots of isolated data points, meaningless dots… But what can you conclude
 from connecting those dot to millions of others? Dots from apps that track
 shares, that allocate rides, that order pizza, that control power stations, that
-monitor crops, that sense frosts in orchards...
+monitor crops, that sense frosts in orchards…
 
 Surveillance capitalist have appropriated behavioral surplus from everything we
 do and use it to infer more about us than we know of ourselves. With their
@@ -153,7 +152,7 @@ enterprise to government to public service. Everything that runs "in the cloud,"
 grist to their mills
 
 Clouds and Linings
---------------------------------------------------------------------------------
+==================
 The saying is that all clouds have a silver lining. Not these new clouds.
 
 These are lined with gold.
