@@ -2,7 +2,7 @@
 .. slug: on-clouds-and-war-and-connecting-dots-and-silver-linings
 .. date: 2019-04-30 00:54:05 UTC
 .. tags: 
-.. category: 
+.. category: observation
 .. link: 
 .. description: 
 .. type: text

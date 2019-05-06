@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>http://tinfeathers.org/archive.html</loc>
-  <lastmod>2019-05-06T20:03:00Z</lastmod>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/categories/</loc>
-  <lastmod>2019-05-06T19:41:00Z</lastmod>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/categories/cat_analysis/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>http://tinfeathers.org/categories/cat_introduction/</loc>
   <lastmod>2019-05-06T11:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tinfeathers.org/categories/cat_observation/</loc>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/galleries/</loc>
@@ -40,6 +44,10 @@
  <url>
   <loc>http://tinfeathers.org/posts/on-clouds-and-war-and-connecting-dots-and-silver-linings/</loc>
   <lastmod>2019-05-05T00:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tinfeathers.org/posts/on-data-security/</loc>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/posts/on-finding-a-voice/</loc>

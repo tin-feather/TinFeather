@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:x6495ed@gmail.com"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 May 2019 19:58:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On the Task at Hand</title><link>http://tinfeathers.org/posts/on-the-task-at-hand/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Done with introductions, we come now to the task at hand:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 May 2019 21:08:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Data Security</title><link>http://tinfeathers.org/posts/on-data-security/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;As an IT professional &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; feel obliged to clear up a matter oft overlooked in
+today's media, both within our community and beyond. That is the matter of data
+security. While sceptical of absolutes &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have studied enough mathematics to
+recognize such a rarity when one appears:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;There is no such thing as secure data.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perhaps that can be re-worded to be more easily remembered:&lt;/p&gt;
+&lt;div class="section" id="there-is-no-such-thing-as-secure-data"&gt;
+&lt;h2&gt;&lt;strong&gt;THERE IS NO SUCH THING AS SECURE DATA!!!&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Every day it seems there are reports of newer and larger data breaches. Customer
+data, government data, health data. On and on without end. One would think that
+by now people would realize that there simply is no way to secure data.&lt;/p&gt;
+&lt;p&gt;"Secure data" is an oxymoron. You have a birthday, as does every person on the
+planet. That is a &lt;em&gt;fact&lt;/em&gt;. You know it. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not. Now record that fact and it
+becomes &lt;em&gt;data&lt;/em&gt;. The defining characteristic of &lt;em&gt;data&lt;/em&gt; is that it can be recalled.
+Write it on a piece of paper and someone can read it. Record it and someone can
+play it back.&lt;/p&gt;
+&lt;p&gt;If a fact can not be recovered it is not &lt;em&gt;data&lt;/em&gt;. Relational database management
+systems exist to facilitate data recall. SQL searches, indexing, back-up and
+redundancy. These all exist to let people recover stored facts, to manage &lt;em&gt;data&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Within information technology we discuss and debate techniques aimed at securing
+database systems. Reading such works, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; can not help thinking of medieval
+architects designing ever larger and elaborate keeps, castles, and walled towns.
+Despite all their technological advances, it is well known that when such
+fortifications fell, it was most often not by force but through human action,
+accidental or treasonous. All modern database systems incorporate
+the same vulnerability. They are designed to allow the data to be recalled and
+read and processed.&lt;/p&gt;
+&lt;p&gt;And once recalled? That data can leak. Why do we act so surprised?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-data-security/</guid><pubDate>Mon, 06 May 2019 20:19:44 GMT</pubDate></item><item><title>On the Task at Hand</title><link>http://tinfeathers.org/posts/on-the-task-at-hand/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Done with introductions, we come now to the task at hand:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To protest surveillance capitalism and invasive data harvesting&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;A cause both noble and just… perhaps sufficiently quixotic to warrant your
 attention? To save you the effort, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; offer this cost-benefit analysis:&lt;/p&gt;

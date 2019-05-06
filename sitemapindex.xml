@@ -14,15 +14,19 @@
   <lastmod>2019-05-06T19:58:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://tinfeathers.org/categories/cat_observation.xml</loc>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://tinfeathers.org/galleries/rss.xml</loc>
   <lastmod>2019-05-06T20:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/rss.xml</loc>
-  <lastmod>2019-05-06T19:58:00Z</lastmod>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/sitemap.xml</loc>
-  <lastmod>2019-05-06T20:03:00Z</lastmod>
+  <lastmod>2019-05-06T20:22:00Z</lastmod>
  </sitemap>
 </sitemapindex>
