@@ -26,6 +26,8 @@ Consider it sincere thanks.
 
 * [The Electronic Frontier Foundation](https://www.eff.org/)
 
+* [None of Your Business](https://noyb.eu)
+
 * [Signal](https://signal.org)
 
 ### Individuals
@@ -36,6 +38,8 @@ Consider it sincere thanks.
 * [Moxie Marlinspike](https://moxie.org)
 
 * [Bruce Schneier](https://www.schneier.com/)
+
+* [Max Schrems](https://noyb.eu)
 
 * [Edward Snowden](https://www.edwardsnowden.com/)
 
