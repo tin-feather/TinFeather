@@ -1,6 +1,10 @@
 # Articles, Links, Stories
 
 ### 2019
+* The Google city that has angered Toronto
+[BBC News](https://www.bbc.co.uk/news/technology-47815344)
+<br>Jane Wakefield
+
 * Facebook has struggled to hire talent since the Cambridge Analytica scandal, according to recruiters who worked there
 [CNBC news](https://www.cnbc.com/2019/05/16/facebook-has-struggled-to-recruit-since-cambridge-analytica-scandal.html)
 <br>Salvador Rodriguez
