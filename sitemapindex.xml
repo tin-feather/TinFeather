@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://tinfeathers.org/categories/cat_analysis.xml</loc>
-  <lastmod>2019-05-18T15:21:00Z</lastmod>
+  <lastmod>2019-05-19T19:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/categories/cat_introduction.xml</loc>
@@ -19,14 +19,14 @@
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/galleries/rss.xml</loc>
-  <lastmod>2019-05-06T20:03:00Z</lastmod>
+  <lastmod>2019-06-01T21:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/rss.xml</loc>
-  <lastmod>2019-05-19T09:10:00Z</lastmod>
+  <lastmod>2019-06-01T21:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tinfeathers.org/sitemap.xml</loc>
-  <lastmod>2019-05-19T09:10:00Z</lastmod>
+  <lastmod>2019-06-01T21:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>
