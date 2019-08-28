@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sun, 14 Jul 2019 15:59:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>In the Trenches with Ethereum</title><link>http://tinfeathers.org/posts/in-the-trenches/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have not fallen off the earth … or been picked up by the black
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Wed, 28 Aug 2019 08:47:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A Nice Idea</title><link>http://tinfeathers.org/posts/a-nice-idea/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Yet another &lt;a class="reference external" href="https://www.nature.com/articles/d41586-019-02514-7"&gt;article&lt;/a&gt; warning about the abuse of facial-recognition technology.
+And from a respected academic.&lt;/p&gt;
+&lt;p&gt;Yes, this a nice idea. And yes, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; suppose it is necessary to encode regulations
+in law. But will the academics and law-makers ever realize that all their laws
+and regulations will not stop the problem? Do they not realize that
+government security agencies will ignore the law? Are they so naive as to assume
+that capitalist businesses will respect regulations?&lt;/p&gt;
+&lt;p&gt;This djinni is well and truly out of the bottle. Thermodynamics has a few words
+to say about reversing such things. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; shouldn't need to elaborate further …&lt;/p&gt;
+&lt;p&gt;Our challenge is to figure out to deal with the reality facing us now and into
+the future.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/a-nice-idea/</guid><pubDate>Wed, 28 Aug 2019 08:34:09 GMT</pubDate></item><item><title>In the Trenches with Ethereum</title><link>http://tinfeathers.org/posts/in-the-trenches/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have not fallen off the earth … or been picked up by the black
 helicopters. A call to arms is exciting: the first rush of emotion, the
 excitement of new ideas, the sheer challenges of communication and motivation.
 But battles are won and lost in the trenches and trenches are generally not
@@ -97,29 +107,4 @@ context in the world.&lt;/li&gt;
 &lt;/li&gt;
 &lt;li&gt;The risk:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-the-task-at-hand/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-the-task-at-hand/</guid><pubDate>Mon, 06 May 2019 19:55:21 GMT</pubDate></item><item><title>On the Shoulders of Giants</title><link>http://tinfeathers.org/posts/on-the-shoulders-of-giants/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;"&lt;strong&gt;If I have seen further it is by standing on the shoulders of Giants.&lt;/strong&gt;"&lt;/p&gt;
-&lt;p class="attribution"&gt;—Isaac Newton, 1675&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This well known quotation expresses an idea that lies at the foundations of the
-scientific tradition, mathematics, and open source software, three of the top
-intellectual achievements of the human species. Yet in literature it goes unused.
-The scientist, mathematician, and programmer readily appropriate and re-purpose
-ideas from our predecessors while most authors seem to aim for an entirely
-personal creative work.&lt;/p&gt;
-&lt;p&gt;Thankfully, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am not an author and this is nothing so formal as a "work of
-literature." Yet &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do have ideas to share and know communication requires
-shared semantics. These may be found in a set of mathematical axioms, a computer
-programming language, but also in a popular movie, in song lyrics, and within
-comedy. In the name of pragmatism and due to the urgency of the task at hand &lt;span class="math"&gt;\(\iota\)&lt;/span&gt;
-will make free use of all these sources, the profound to the profane, confident
-of their effect, with respect, and in hopeful anticipation of their originators'
-approval.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;"&lt;strong&gt;I am Jack's betrayed sense of privacy.&lt;/strong&gt;"&lt;/p&gt;
-&lt;p class="attribution"&gt;—after the Narrator, &lt;strong&gt;Fight Club&lt;/strong&gt;,
-Chuck Palahnuik&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-the-shoulders-of-giants/</guid><pubDate>Sun, 05 May 2019 19:47:34 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-the-task-at-hand/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-the-task-at-hand/</guid><pubDate>Mon, 06 May 2019 19:55:21 GMT</pubDate></item></channel></rss>
