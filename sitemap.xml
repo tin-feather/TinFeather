@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://tinfeathers.org/archive.html</loc>
-  <lastmod>2019-08-28T08:40:00Z</lastmod>
+  <lastmod>2019-11-16T13:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/categories/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>http://tinfeathers.org/index-1.html</loc>
-  <lastmod>2019-08-28T08:40:00Z</lastmod>
+  <lastmod>2019-11-16T13:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/listings/</loc>
@@ -90,6 +90,10 @@
   <lastmod>2019-05-04T21:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://tinfeathers.org/posts/on-the-blockchain/</loc>
+  <lastmod>2019-11-16T13:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://tinfeathers.org/posts/on-the-idea-of-the-tin-feather/</loc>
   <lastmod>2019-05-05T00:27:00Z</lastmod>
  </url>
@@ -108,5 +112,9 @@
  <url>
   <loc>http://tinfeathers.org/posts/two-principles/</loc>
   <lastmod>2019-05-11T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tinfeathers.org/posts/zuboff-live/</loc>
+  <lastmod>2019-11-16T13:02:00Z</lastmod>
  </url>
 </urlset>

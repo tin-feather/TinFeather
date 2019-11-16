@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Wed, 28 Aug 2019 08:47:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A Nice Idea</title><link>http://tinfeathers.org/posts/a-nice-idea/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Yet another &lt;a class="reference external" href="https://www.nature.com/articles/d41586-019-02514-7"&gt;article&lt;/a&gt; warning about the abuse of facial-recognition technology.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 16 Nov 2019 14:25:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On the Blockchain</title><link>http://tinfeathers.org/posts/on-the-blockchain/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;After a few months investigation it is time to report. Here it is: the Good, the
+Bad, and the Ugly of the blockchain as &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; see it. You may whistle the
+appropriate &lt;a class="reference external" href="https://www.youtube.com/watch?v=LQGGQ-FCe_w"&gt;theme tune&lt;/a&gt; yourself if you like and imagine me dirty, bearded and
+wearing a poncho.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-the-blockchain/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-the-blockchain/</guid><pubDate>Sat, 16 Nov 2019 13:01:59 GMT</pubDate></item><item><title>Zuboff live</title><link>http://tinfeathers.org/posts/zuboff-live/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;This is the first video presentation I have seen on-line of Shoshana Zuboff
+speaking on surveillance capitalism. She speaks as well as she writes.&lt;/p&gt;
+&lt;p&gt;&amp;lt;&lt;a class="reference external" href="https://iai.tv/video/shoshana-zuboff-the-age-of-surveillance-capitalism"&gt;https://iai.tv/video/shoshana-zuboff-the-age-of-surveillance-capitalism&lt;/a&gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;Appears to be an interesting venue as well, the &lt;a class="reference external" href="https://iai.tv/"&gt;Institute of Art and Ideas&lt;/a&gt; .
+&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; will have to look in to them, too.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/zuboff-live/</guid><pubDate>Sat, 16 Nov 2019 12:54:52 GMT</pubDate></item><item><title>A Nice Idea</title><link>http://tinfeathers.org/posts/a-nice-idea/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Yet another &lt;a class="reference external" href="https://www.nature.com/articles/d41586-019-02514-7"&gt;article&lt;/a&gt; warning about the abuse of facial-recognition technology.
 And from a respected academic.&lt;/p&gt;
 &lt;p&gt;Yes, this a nice idea. And yes, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; suppose it is necessary to encode regulations
 in law. But will the academics and law-makers ever realize that all their laws
@@ -54,57 +62,4 @@ off with the trilby of a distinguished looking, but not terribly fit old man.
 &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; recovered and returned said hat. The short conversation we shared over
 the few following blocks has stayed with me to this day as a strange, almost
 dream-like memory.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/two-principles/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/two-principles/</guid><pubDate>Sat, 11 May 2019 07:57:08 GMT</pubDate></item><item><title>On Data Security</title><link>http://tinfeathers.org/posts/on-data-security/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;As an IT professional &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; feel obliged to clear up a matter oft overlooked in
-today's media, both within our community and beyond. That is the matter of data
-security. While sceptical of absolutes &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have studied enough mathematics to
-recognize such a rarity when one appears:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;There is no such thing as secure data.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Perhaps that can be re-worded to be more easily remembered:&lt;/p&gt;
-&lt;div class="section" id="there-is-no-such-thing-as-secure-data"&gt;
-&lt;h2&gt;&lt;strong&gt;THERE IS NO SUCH THING AS SECURE DATA!!!&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Every day it seems there are reports of newer and larger data breaches. Customer
-data, government data, health data. On and on without end. One would think that
-by now people would realize that there simply is no way to secure data.&lt;/p&gt;
-&lt;p&gt;"Secure data" is an oxymoron. You have a birthday, as does every person on the
-planet. That is a &lt;em&gt;fact&lt;/em&gt;. You know it. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; do not. Now record that fact and it
-becomes &lt;em&gt;data&lt;/em&gt;. The defining characteristic of &lt;em&gt;data&lt;/em&gt; is that it can be recalled.
-Write it on a piece of paper and someone can read it. Record it and someone can
-play it back.&lt;/p&gt;
-&lt;p&gt;If a fact can not be recovered it is not &lt;em&gt;data&lt;/em&gt;. Relational database management
-systems exist to facilitate data recall. SQL searches, indexing, back-up and
-redundancy. These all exist to let people recover stored facts, to manage &lt;em&gt;data&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Within information technology we discuss and debate techniques aimed at securing
-database systems. Reading such works, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; can not help thinking of medieval
-architects designing ever larger and elaborate keeps, castles, and walled towns.
-Despite all their technological advances, it is well known that when such
-fortifications fell, it was most often not by force but through human action,
-accidental or treasonous. All modern database systems incorporate
-the same vulnerability. They are designed to allow the data to be recalled and
-read and processed.&lt;/p&gt;
-&lt;p&gt;And once recalled? That data can leak. Why do we act so surprised?&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-data-security/</guid><pubDate>Mon, 06 May 2019 20:19:44 GMT</pubDate></item><item><title>On the Task at Hand</title><link>http://tinfeathers.org/posts/on-the-task-at-hand/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Done with introductions, we come now to the task at hand:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;To protest surveillance capitalism and invasive data harvesting&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;A cause both noble and just… perhaps sufficiently quixotic to warrant your
-attention? To save you the effort, &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; offer this cost-benefit analysis:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Your cost:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;the time it takes to read these words.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;Your benefit:&lt;/dt&gt;
-&lt;dd&gt;&lt;ul class="first last"&gt;
-&lt;li&gt;worst case – a curmudgeon's smirk at my futile histrionics;&lt;/li&gt;
-&lt;li&gt;best case – new insights into our industry, our community, and their
-context in the world.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;The risk:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-the-task-at-hand/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-the-task-at-hand/</guid><pubDate>Mon, 06 May 2019 19:55:21 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/two-principles/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/two-principles/</guid><pubDate>Sat, 11 May 2019 07:57:08 GMT</pubDate></item></channel></rss>
