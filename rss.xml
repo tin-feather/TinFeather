@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Thu, 12 Dec 2019 21:38:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Theft of the Century</title><link>http://tinfeathers.org/posts/the-theft-of-the-century/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;It is happening as we watch. Right under our noses. The greatest theft of data,
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 21 Mar 2020 21:07:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Zero Trust</title><link>http://tinfeathers.org/posts/zero-trust/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;"Zero Trust. Security the Google way."&lt;/p&gt;
+&lt;p&gt;Where do &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; even start? At a link about "zero trust" and internet security.
+Seems like something relevant to the themes covered in these posts. Certainly it
+is quite a band wagon rolling through today's IT scene. So &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; clicked and
+started reading.&lt;/p&gt;
+&lt;p&gt;My jaw has fallen so hard to the floor that &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; am having trouble organizing my
+thoughts sufficiently to explain.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/zero-trust/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/zero-trust/</guid><pubDate>Thu, 12 Mar 2020 20:10:07 GMT</pubDate></item><item><title>The Theft of the Century</title><link>http://tinfeathers.org/posts/the-theft-of-the-century/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;It is happening as we watch. Right under our noses. The greatest theft of data,
 the boldest, most egregious act of invasive data harvesting by the surveillance
 capitalists yet. Will it be beat in the next 81 year? &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; doubt it. Years of
 planning and execution.  What is it?&lt;/p&gt;
@@ -53,12 +60,4 @@ polarization seen so widely these days.&lt;/p&gt;
 stated purposes of this blog: &lt;strong&gt;to protest surveillance capitalism and invasive
 data harvesting&lt;/strong&gt;. The first step debugging a problem is to reliably exhibit it.&lt;/p&gt;
 &lt;p&gt;To &lt;em&gt;fix&lt;/em&gt; a bug, however, requires more. How do we make a difference?&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-effecting-change/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-effecting-change/</guid><pubDate>Sat, 18 May 2019 12:05:35 GMT</pubDate></item><item><title>Hopeful News</title><link>http://tinfeathers.org/posts/hopeful-news/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;This is the most hopeful news &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; have seen. CNBC reports Facebbok's job offer
-acceptance rate is plummeting:&lt;/p&gt;
-&lt;p&gt;&amp;lt;&lt;a class="reference external" href="https://www.cnbc.com/2019/05/16/facebook-has-struggled-to-recruit-since-cambridge-analytica-scandal.html"&gt;https://www.cnbc.com/2019/05/16/facebook-has-struggled-to-recruit-since-cambridge-analytica-scandal.html&lt;/a&gt;&amp;gt;&lt;/p&gt;
-&lt;p&gt;We (programmers, geeks, techies … call us what you will) may be slow to
-anger, slow to indignation. We take a long time to make up our minds. But you
-know what? That is because it takes time to reach truth. But once we find it,
-we stick to it.&lt;/p&gt;
-&lt;p&gt;Let's see how all those "thought leaders" and "visionaries" get on pounding
-their own code at scale.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/hopeful-news/</guid><pubDate>Sat, 18 May 2019 08:51:25 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-effecting-change/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-effecting-change/</guid><pubDate>Sat, 18 May 2019 12:05:35 GMT</pubDate></item></channel></rss>
