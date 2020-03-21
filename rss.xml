@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 21 Mar 2020 21:07:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Zero Trust</title><link>http://tinfeathers.org/posts/zero-trust/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;"Zero Trust. Security the Google way."&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 21 Mar 2020 22:34:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Libra v. Okta</title><link>http://tinfeathers.org/posts/libra-v-okta/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div class="section" id="identity-management-services"&gt;
+&lt;h2&gt;Identity Management Services&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://libra.org/en-US/"&gt;Libra&lt;/a&gt; was pretty scary for a while, at least until it became clear that Facebook
+was not going to be able to pull it off. A phrase &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; recently ran across
+reminded me of something &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; saw in the Libra aftermath, though. &lt;em&gt;Identity
+Management Service&lt;/em&gt;. Libra wasn't trying to take control of all our money, they
+said. They were just looking to establish themselves as an identity management
+service.&lt;/p&gt;
+&lt;p&gt;Thankfully, they failed. I suspect a lot of the blame lies with Zuckerberg
+himself given the degree of control he maintains over the company. &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; can
+imagine him thinking that he has control of a great portion of the world's
+population, pondering how to get control of the rest. "Money. Everyone spends
+money. If I control their money I can control them." Perhaps unfair, but it's
+my imagination.&lt;/p&gt;
+&lt;p&gt;What he failed to realize, though, is that people &lt;em&gt;care&lt;/em&gt; about their money. And
+other people care about other peoples' money. In short, financial industries
+are highly, highly regulated.&lt;/p&gt;
+&lt;p&gt;Now consider &lt;a class="reference external" href="https://www.okta.com/"&gt;Okta&lt;/a&gt;. They also offer identity management services. For all your
+clients and all your employees. For all an &lt;em&gt;enterprise's&lt;/em&gt; clients and employees.
+This is Enterprise Software!&lt;/p&gt;
+&lt;p&gt;What difference does that make? Think about it … enterprise software. We all
+know too much about enterprise software. Nobody cares about it. Nobody gives
+much of a damn about the software the enterprise uses. Enterprise software is
+not regulated.&lt;/p&gt;
+&lt;p&gt;But it entraps everybody. Every single one of us. Like a tar pit. Any one who
+has a job. Any one who has ever had to fill out a human resources form. Every
+one who receives a paycheck.&lt;/p&gt;
+&lt;p&gt;Okta doesn't control us when we go to spend our money; they control us before we
+even earn it.&lt;/p&gt;
+&lt;p&gt;Libra : 0. Okta : 1.&lt;/p&gt;
+&lt;p&gt;Game over, folks.&lt;/p&gt;
+&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/libra-v-okta/</guid><pubDate>Sat, 21 Mar 2020 21:51:44 GMT</pubDate></item><item><title>Zero Trust</title><link>http://tinfeathers.org/posts/zero-trust/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;"Zero Trust. Security the Google way."&lt;/p&gt;
 &lt;p&gt;Where do &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; even start? At a link about "zero trust" and internet security.
 Seems like something relevant to the themes covered in these posts. Certainly it
 is quite a band wagon rolling through today's IT scene. So &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; clicked and
@@ -56,8 +87,4 @@ looking to maintain the status quo know this and use fear, uncertainty, and
 doubt to sow disunity and exaggerate differences leading to the ineffective
 polarization seen so widely these days.&lt;/p&gt;
 &lt;p&gt;What can we do?&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-building-consensus/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-building-consensus/</guid><pubDate>Sun, 19 May 2019 09:10:05 GMT</pubDate></item><item><title>On Effecting Change</title><link>http://tinfeathers.org/posts/on-effecting-change/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;A public complaint can serve to raise awareness of a problem and is one of the
-stated purposes of this blog: &lt;strong&gt;to protest surveillance capitalism and invasive
-data harvesting&lt;/strong&gt;. The first step debugging a problem is to reliably exhibit it.&lt;/p&gt;
-&lt;p&gt;To &lt;em&gt;fix&lt;/em&gt; a bug, however, requires more. How do we make a difference?&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-effecting-change/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-effecting-change/</guid><pubDate>Sat, 18 May 2019 12:05:35 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-building-consensus/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-building-consensus/</guid><pubDate>Sun, 19 May 2019 09:10:05 GMT</pubDate></item></channel></rss>
