@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sat, 21 Mar 2020 22:34:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Libra v. Okta</title><link>http://tinfeathers.org/posts/libra-v-okta/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div class="section" id="identity-management-services"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Tin Feather</title><link>http://tinfeathers.org/</link><description>To protest surveillance capitalism and invasive data harvesting.</description><atom:link href="http://tinfeathers.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:info@tinfeathers.org"&gt;Feather Tin&lt;/a&gt; </copyright><lastBuildDate>Sun, 22 Mar 2020 18:41:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Piloting Super Tankers</title><link>http://tinfeathers.org/posts/piloting-tankers/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;Many years ago &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; saw a demonstration of software for navigating super tankers.
+The graphical display showed a nautical chart updating in real time centered on
+the ship's current location. Extending from the front of the ship's icon  was a
+long red line representing the vessel's stopping distance. The end of this line
+showed where the ship would be roughly 20 minutes in the future, the amount of
+time it would take to stop. If this line touched shore alarms went off. Loud
+ones.&lt;/p&gt;
+&lt;p&gt;Rightly so. Without corrective action, the ship would run aground. T minus 20
+minutes until oil spill and natural disaster.&lt;/p&gt;
+&lt;p&gt;&lt;span class="math"&gt;\(\iota\)&lt;/span&gt; tell this story to defend accusations of paranoia. Think of the views
+expressed here as that red line. Tin Feathers provides a warning of what could
+happen given the current direction technology and society are heading. Consider
+mine a voice raised in concern. Will we see the worst or will corrective action
+be taken? We all better pay attention.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/piloting-tankers/</guid><pubDate>Sun, 22 Mar 2020 18:16:05 GMT</pubDate></item><item><title>Libra v. Okta</title><link>http://tinfeathers.org/posts/libra-v-okta/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div class="section" id="identity-management-services"&gt;
 &lt;h2&gt;Identity Management Services&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://libra.org/en-US/"&gt;Libra&lt;/a&gt; was pretty scary for a while, at least until it became clear that Facebook
 was not going to be able to pull it off. A phrase &lt;span class="math"&gt;\(\iota\)&lt;/span&gt; recently ran across
@@ -81,10 +94,4 @@ on in the past, may be worth rethinking since so-called "serverless computing"
 has become a thing. Yes, it is in the cloud, but it is transient. Can we make
 the vulnerable parts of some of these systems transient and thereby lessen their
 vulnerability?&lt;/p&gt;
-&lt;p&gt;So much to learn. So much to ponder.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/so-much-to-learn/</guid><pubDate>Sat, 01 Jun 2019 21:40:40 GMT</pubDate></item><item><title>On Building Consensus</title><link>http://tinfeathers.org/posts/on-building-consensus/</link><dc:creator>Feather Tin</dc:creator><description>&lt;div&gt;&lt;p&gt;To effect change we must work together. Reform is thwarted if we fail to come
-together in sufficient number or fail to stay united for sufficient time. Those
-looking to maintain the status quo know this and use fear, uncertainty, and
-doubt to sow disunity and exaggerate differences leading to the ineffective
-polarization seen so widely these days.&lt;/p&gt;
-&lt;p&gt;What can we do?&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tinfeathers.org/posts/on-building-consensus/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/on-building-consensus/</guid><pubDate>Sun, 19 May 2019 09:10:05 GMT</pubDate></item></channel></rss>
+&lt;p&gt;So much to learn. So much to ponder.&lt;/p&gt;&lt;/div&gt;</description><guid>http://tinfeathers.org/posts/so-much-to-learn/</guid><pubDate>Sat, 01 Jun 2019 21:40:40 GMT</pubDate></item></channel></rss>
