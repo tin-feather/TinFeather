@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://tinfeathers.org/</loc>
-  <lastmod>2020-03-21T21:51:00Z</lastmod>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/2019/</loc>
@@ -18,8 +18,12 @@
   <lastmod>2020-03-12T23:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://tinfeathers.org/2021/</loc>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://tinfeathers.org/archive.html</loc>
-  <lastmod>2020-03-31T21:57:00Z</lastmod>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/categories/</loc>
@@ -43,11 +47,11 @@
  </url>
  <url>
   <loc>http://tinfeathers.org/index-1.html</loc>
-  <lastmod>2020-03-21T21:51:00Z</lastmod>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/index-2.html</loc>
-  <lastmod>2020-03-31T21:57:00Z</lastmod>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/listings/</loc>
@@ -136,6 +140,10 @@
  <url>
   <loc>http://tinfeathers.org/posts/two-principles/</loc>
   <lastmod>2019-05-11T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tinfeathers.org/posts/we-are-being-enslaved-in-chains-of-silicon/</loc>
+  <lastmod>2021-11-04T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://tinfeathers.org/posts/zero-trust/</loc>
